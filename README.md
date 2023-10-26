@@ -38,4 +38,4 @@ Happy coding and breaking the code!
 
 ## User Requests
 
-If you have specific coding challenges, CTF problems, or topics you'd like to see covered, or if you need advice on a particular issue, you can request them by creating a new issue in the "User Requests" section of this repository.
+If you have specific coding challenges, CTF problems, or topics you'd like to see covered, or if you need advice on a particular issue, you can request them by creating a new issue in the repo and labelling it as **request**.
