@@ -13,9 +13,9 @@ For the time being, these are some of the CTF Challenges intended to be relased 
 | Jack Of All Trades | TryHackMe                                                        | Exported | 27/10/23      |
 | ColdBox- Easy      | TryHackMe                                                        | Exported | 27/10/23      |
 | Source             | TryHackMe                                                        | Exported | 27/10/23      |
-| Vulnet Internal    | CTF, TryHackMe                                                   | Done     |               |
+| Vulnet Internal    | CTF, TryHackMe                                                   | Exported | 27/10/23      |
 | Game Zone          | CTF, TryHackMe                                                   | Done     |               |
-| Poster             | TryHackMe                                                        | Done     |               |
+| Poster             | TryHackMe                                                        | Exported | 03/11/23      |
 | Cap                | HackTheBox                                                       | Done     |               |
 | Lame               | HackTheBox                                                       | Done     |               |
 | Watcher            | Boot2Root, Linux, Priv Escalation                                | Done     |               |
@@ -34,7 +34,7 @@ For the time being, these are some of the CTF Challenges intended to be relased 
 | Redeemer           | HackTheBox                                                       | Done     |               |
 | Meow               | HackTheBox, Network Services, Completed                          | Done     |               |
 | Daily Bugle        | TryHackMe, SQLmap                                                | Done     |               |
-| Thompson           | Reverse Shell, Network Services, TryHackMe                       | Done     |               |
+| Thompson           | Reverse Shell, Network Services, TryHackMe                       | Exported | 03/11/23      |
 | Library            | TryHackMe, Network Services                                      | Done     |               |
 | Oh My WebServer    | TryHackMe                                                        | Done     |               |
 | tomghost           | TryHackMe, Boot2Root                                             | Done     |               |
@@ -47,7 +47,7 @@ For the time being, these are some of the CTF Challenges intended to be relased 
 | Archangel          | TryHackMe, Linux, Priv Escalation                                | Done     |               |
 | Easy Peasy         | TryHackMe, Network Services, Stegnograhpy, Completed, Bruteforce | Done     |               |
 | Anthem             | TryHackMe, Tutorial, WIndows, Ongoing                            | Done     |               |
-| Year of the Rabbit | CTF, TryHackMe, Completed                                        | Done     |               |
+| Year of the Rabbit | CTF, TryHackMe, Completed                                        | Exported | 03/11/23      |
 | GamingServer       | TryHackMe, Completed                                             | Done     |               |
 | Chill Hack         | TryHackMe, Completed                                             | Done     |               |
 | Anonymous          | TryHackMe, Security, Linux, Completed                            | Done     |               |
