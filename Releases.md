@@ -77,8 +77,10 @@ For the time being, these are some of the CTF Challenges intended to be relased 
 ## Coding Challenges
 Every Monday,Wednesday and Friday, new Coding Challenge Solutions are going to be posted, where ;
 1. JavaScript :: Monday
-2. Python :: Wednesday
-3. Friday :: PHP
+2. SQL :: Tuesday
+3. Python :: Wednesday
+4. SQL :: Thursady
+5. PHP :: Friday
 
 | Challenge Title | Description | Link |
 | --------------- | ----------- | ---- |
