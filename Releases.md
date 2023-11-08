@@ -71,6 +71,7 @@ For the time being, these are some of the CTF Challenges intended to be relased 
 | Pickle Rick        | TryHackMe, CTF                                                   | Done     |               |
 | RES                | TryHackMe, CTF                                                   | Done     |               |
 | Codify             | HackTheBox                                                       | Exported | 06/11/23      |
+| Analytics          | HackTheBox                                                       | Exported | 08/11/23      |
 
 
 
