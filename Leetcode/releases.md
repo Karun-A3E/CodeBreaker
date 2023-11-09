@@ -16,3 +16,13 @@
 | Managers with at Least 5 Direct Reports        | Medium       |
 | Replace Employee ID With The Unique Identifier | Easy | 
 | Confirmation Rate                              | Medium | 
+| Not Boring Movies				 | Easy | 
+| Average Selling Price                              | Easy       | 
+| Project Employees I                                | Easy       | 
+| Percentage Of Users Attended A Contest             | Easy       | 
+| Queries quality and Percentage                     | Easy       | 
+| Monthly Transactions I                             | Medium     | 
+| Immediate Food Delivery                            | Medium     | 
+| Gameplay Analysis IV                               | Medium     | 
+| Number of Unique Subjects taught by each teacher   | Easy       | 
+| User Activity for the past 30 Day I                | Easy       |    
