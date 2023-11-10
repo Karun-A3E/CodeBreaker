@@ -32,3 +32,10 @@
 | Calculate Pyramid Height                | Calculate the height of a pyramid that can be built using n blocks, where each level has 1, 4, 9, ... blocks. | [Challenge 6](https://www.codewars.com/kata/56968ce7753513604b000055) |
 | Roman Numerals Decoder                 | Convert a Roman numeral string to an integer.     | [Challenge 7](https://www.codewars.com/kata/51b6249c4612257ac0000005) |
 
+
+## PHP Challenges
+| Challenge Name            | Description                                                                           | Link                                                      |
+|---------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Encrypt This              | Encrypts a message by encoding each word based on a specific pattern.                 | [Challenge 1](https://www.codewars.com/kata/5848565e273af816fb000449) |
+| Onion Array Checker       | Checks if the given array is an "onion array." An array where first and last elements' sum <= 10. | [Challenge 2](https://www.codewars.com/kata/59b2883c5e2308b54d000013/train/php) |
+| Find Missing Letter       | Finds the missing letter in an array of consecutive letters.                          | [Challenge 3](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/php) |
