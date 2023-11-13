@@ -11,8 +11,9 @@
 | Roman Numerals Decoder (Default Solution) | This function decodes a Roman numeral string and converts it into an integer. | [Challenge 7](https://www.codewars.com/kata/51b6249c4612257ac0000005) |
 | Roman Numerals Decoder (Alternative Solution) | This function provides an alternative solution to decode Roman numerals. | [Challenge 7](https://www.codewars.com/kata/51b6249c4612257ac0000005) |
 | Tim's Fruit Shop Challenge | This function optimizes the packaging of fruit orders into bags, boxes, and pallets based on the number of units. | [Challenge 8](https://www.codewars.com/kata/652643925c042100247fffc6/) |
-
-
+| reCoverSecret | Recover a secret String from random triplets | [Challenge 9](https://www.codewars.com/kata/53f40dff5f9d31b813000774) |
+| Codewars Ranking System | A codewar ranking system class | [Challenge 10](https://www.codewars.com/kata/51fda2d95d6efda45e00004e) |
+| Snail | -- | [Challenge 11](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) |
 
 
 
